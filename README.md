@@ -41,10 +41,6 @@ To run the face detection on a webcam feed:
 python face_detection.py
 ```
 
-### Command Line Arguments
-
-- `--video`: Path to the video file. If not specified, the webcam will be used as the input.
-
 ### Output
 
 The program will display the video with detected faces highlighted by bounding boxes. The number of detected faces is displayed on the screen.
