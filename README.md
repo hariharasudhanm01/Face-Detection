@@ -1,7 +1,3 @@
-Here’s a template for your GitHub README file for the face detection project using MediaPipe:
-
----
-
 # Face Detection Using MediaPipe
 
 ## Overview
@@ -27,7 +23,7 @@ This project implements a real-time face detection system using the [MediaPipe](
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/face-detection-mediapipe.git
+   git clone https://github.com/hariharasudhanm01/Face-Detection/
    cd face-detection-mediapipe
    ```
 
@@ -77,6 +73,4 @@ If you'd like to contribute, please fork the repository and use a feature branch
 - [MediaPipe](https://mediapipe.dev) for providing the face detection framework.
 - [OpenCV](https://opencv.org) for video handling.
 
----
 
-This template provides a comprehensive README for your face detection project. You can customize it further to include specific details about your implementation, results, or any other important information.
