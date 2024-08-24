@@ -68,10 +68,6 @@ This project leverages MediaPipe’s Face Detection module, which uses machine l
 - **MediaPipe Face Detection**: The core module used for detecting faces.
 - **OpenCV**: Used for handling video input and output.
 
-## Results
-
-Include some example images or a gif showing the face detection in action.
-
 ## Contributing
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
