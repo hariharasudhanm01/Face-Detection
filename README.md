@@ -45,11 +45,6 @@ To run the face detection on a webcam feed:
 python face_detection.py
 ```
 
-To run the face detection on a video file:
-```bash
-python face_detection.py --video path_to_video.mp4
-```
-
 ### Command Line Arguments
 
 - `--video`: Path to the video file. If not specified, the webcam will be used as the input.
