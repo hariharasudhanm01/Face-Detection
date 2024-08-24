@@ -81,10 +81,6 @@ Include some example images or a gif showing the face detection in action.
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [MediaPipe](https://mediapipe.dev) for providing the face detection framework.
